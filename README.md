@@ -1,1 +1,2 @@
 # FPSPrototypes
+These are a some bite-sized prototypes of an FPS effect in a 2D environment. 'FPS' is the simplest, where you are supposed to shoot as many of the incoming enemies as you can before they get too close. 'FPS_GunModel' is like the previous, but uses a gun model to add to the FPS visual. 'FPS_Trainer' has a changing gun model based on the mouse position and is about training aim instead of gathering points.
